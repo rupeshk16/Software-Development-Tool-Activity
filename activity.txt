@@ -1,0 +1,21 @@
+Git and GitHub Activity
+
+Student Name: Rupesh KUMAWAT
+Roll no:- 133
+GitHub Username: rupeshk16
+
+Objective:
+To learn the basic operations of Git and GitHub.
+
+Activities:
+1. Create a GitHub repository.
+2. Upload files to GitHub.
+3. Understand commits and version control.
+4. Maintain project files in a repository.
+
+Commands Practiced:
+1. git init
+2. git add
+3. git commit
+4. git push
+5. git pull
